@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vvishnu_be23@thapar.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D4xaaur5vra2vXlTKnQ3h13T_N7nDHDy/view?usp=sharing](https://drive.google.com/file/d/1D4xaaur5vra2vXlTKnQ3h13T_N7nDHDy/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1D4xaaur5vra2vXlTKnQ3h13T_N7nDHDy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
