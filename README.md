@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS, ExpressJS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vvishnu_be23@thapar.edu**
 
