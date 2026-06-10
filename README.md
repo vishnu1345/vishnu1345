@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">MTS Intern at AlgoUniversity (YC'21)</h3>
 
 - 🔭 I’m currently working on [Admiles](https://github.com/vishnu1345/admiles_mvp)
 
